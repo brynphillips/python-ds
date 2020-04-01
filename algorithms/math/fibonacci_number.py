@@ -1,4 +1,4 @@
-# Program that prints out the fibonacci sequence until a given number
+# Program that prints out the fibonacci sequence to the given term.
 
 def main():
     n = int(input("Insert number: "))
