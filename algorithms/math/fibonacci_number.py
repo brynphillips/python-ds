@@ -1,8 +1,7 @@
 # Program that prints out the fibonacci sequence until a given number
 
-
 def main():
-    n = int(input("insert number"))
+    n = int(input("Insert number: "))
     fib = [1, 1]
     for i in range(2,n,1):
         print(i)
